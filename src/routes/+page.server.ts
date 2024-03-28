@@ -21,7 +21,6 @@ export const actions: Actions = {
 		}
 
 		return {
-			success: true,
 			message: 'Note was created successfully'
 		};
 	}
